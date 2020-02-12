@@ -1,3 +1,7 @@
 def reverse_each_word(sentence)
-  sentence.split(",")
+  base = sentence.split(",")
+  i = 0
+  while i < base.length do
+    
+  end
 end
